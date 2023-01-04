@@ -1,6 +1,8 @@
 # About Project
 This is the first landing page that creates using React JS. This landing page to develop my mother's business.
 
+You can open it on this link https://jahit.netlify.app/ or clone this project and run it with the instruction below.
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
